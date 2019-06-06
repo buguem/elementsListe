@@ -1,0 +1,9 @@
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\bin\Debug\ElementListes.exe
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\bin\Debug\ElementListes.pdb
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.csprojAssemblyReference.cache
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.ElementListeForm.resources
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.Properties.Resources.resources
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.csproj.GenerateResource.cache
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.csproj.CoreCompileInputs.cache
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.exe
+D:\PROG1239 TREMBLAY\PROG 1235\DEVOIRS\ElementListes\obj\Debug\ElementListes.pdb
